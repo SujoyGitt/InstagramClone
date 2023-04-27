@@ -1,0 +1,34 @@
+.loading{
+  width: 100%;
+  height: 100vh;
+  background: #FFFFFF;
+  z-index: 20;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.loading .logo{
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.loading .logo img{
+  width: 100%;
+  height: 100%;
+}
+.loading .meta_logo{
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%,0%);
+  text-align: center;
+}
+.loading .meta_logo img{
+  width: 100%;
+}

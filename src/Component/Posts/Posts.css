@@ -1,0 +1,77 @@
+.posts{
+
+  border: 1px solid rgb(206, 206, 206);
+  border-radius: 10px;
+  margin-right: 100px;
+  background: white;
+  z-index: 1;
+  overflow: hidden;
+}
+.posts .post_header{
+  display: flex;
+justify-content: start;
+align-items: center;
+padding: 15px;
+font-size:15px;
+font-weight: 600;
+
+}
+.posts .post_header_avater{
+  line-height: 20px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  position: relative;
+  background: white;
+}
+.posts .post_header_avater::after{
+  content: "";
+  position: absolute;
+  width: 120%;
+  height: 120%;
+  background:red;
+  top: -10%;
+  left: -10%;
+  border-radius: 50%;
+  background: linear-gradient(-120deg,rgb(217,28,204),#FFC500);
+  z-index: -1;
+  }
+  .posts .posts_img img{
+    width: 100%;
+  }
+  .comments_section{
+    padding: 4px 10px;
+    border-top: 1px solid var(--grey);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .comments_section label{
+    font-size: 30px;
+  }
+  .comments_section input{
+    width: 80%;
+    border: none;
+    outline: none;
+  }
+  .comments_section button{
+    border: none;
+    outline: none;
+    background: none;
+    color: rgb(4, 166, 230);
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .comments_container .comments_container-name{
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .comments_container .comments_container-message{
+    color: rgb(85, 85, 85);
+  }
+  .posts_social .like_comments span{
+    margin-left: 10px;
+  }

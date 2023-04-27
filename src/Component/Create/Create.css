@@ -1,0 +1,46 @@
+.Createbody{
+  width: 100%;
+  height: 100vh;
+  background: rgba(29, 29, 29, 0.678);
+  z-index: 5;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+svg{
+  cursor: pointer;
+}
+.Createbody .closepost {
+width: 70px;
+height: 70px;
+position: absolute;
+top: 0;
+right: 0;
+text-align: center;
+line-height: 60px;
+cursor: pointer;
+}
+.Createbody .closepost svg{
+  font-size: 40px;
+  color: whitesmoke;
+}
+.Createbody .form{
+  width: 400px;
+  background: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: 10px;
+}
+.Createbody .form input{
+  height: 150px;
+}
+.Createbody .form button{
+  background: orangered;
+  border-radius: 5px;
+  color: whitesmoke;
+}
+.Createbody .form svg{
+  color: red;
+}
