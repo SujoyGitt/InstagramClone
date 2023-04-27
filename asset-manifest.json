@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/InstagramClone/static/css/main.a673ef77.css",
-    "main.js": "/InstagramClone/static/js/main.9c74f228.js",
-    "static/media/Logo.png": "/InstagramClone/static/media/Logo.0234e0bf8fae139480ea.png",
-    "static/media/screenshot4.png": "/InstagramClone/static/media/screenshot4.a015f55058ad24a00428.png",
-    "static/media/screenshot1.png": "/InstagramClone/static/media/screenshot1.d688ff1f110b88f3c0c9.png",
-    "static/media/screenshot3.png": "/InstagramClone/static/media/screenshot3.66d6eaaf896694188857.png",
-    "static/media/profile4.jpg": "/InstagramClone/static/media/profile4.ce314fe7b4ed9eda35b3.jpg",
-    "static/media/profile2.jpg": "/InstagramClone/static/media/profile2.979dda0cdfd716605b21.jpg",
-    "static/media/profile1.jpg": "/InstagramClone/static/media/profile1.056ad4e2aadac0aa514e.jpg",
-    "static/media/screenshot2.png": "/InstagramClone/static/media/screenshot2.a8b4d779fa1026a205a2.png",
-    "static/media/profile5.jpg": "/InstagramClone/static/media/profile5.73695ba9a4edf9545db9.jpg",
-    "static/media/profile3.jpg": "/InstagramClone/static/media/profile3.c93f9d64f08fce10570a.jpg",
-    "static/media/profile.jpg": "/InstagramClone/static/media/profile.89252e41610c01232e77.jpg",
-    "static/media/logo.png": "/InstagramClone/static/media/logo.85e869a755c605162bb9.png",
-    "index.html": "/InstagramClone/index.html",
-    "main.a673ef77.css.map": "/InstagramClone/static/css/main.a673ef77.css.map",
-    "main.9c74f228.js.map": "/InstagramClone/static/js/main.9c74f228.js.map"
+    "main.css": "/static/css/main.a673ef77.css",
+    "main.js": "/static/js/main.341a1242.js",
+    "static/media/Logo.png": "/static/media/Logo.0234e0bf8fae139480ea.png",
+    "static/media/screenshot4.png": "/static/media/screenshot4.a015f55058ad24a00428.png",
+    "static/media/screenshot1.png": "/static/media/screenshot1.d688ff1f110b88f3c0c9.png",
+    "static/media/screenshot3.png": "/static/media/screenshot3.66d6eaaf896694188857.png",
+    "static/media/profile4.jpg": "/static/media/profile4.ce314fe7b4ed9eda35b3.jpg",
+    "static/media/profile2.jpg": "/static/media/profile2.979dda0cdfd716605b21.jpg",
+    "static/media/profile1.jpg": "/static/media/profile1.056ad4e2aadac0aa514e.jpg",
+    "static/media/screenshot2.png": "/static/media/screenshot2.a8b4d779fa1026a205a2.png",
+    "static/media/profile5.jpg": "/static/media/profile5.73695ba9a4edf9545db9.jpg",
+    "static/media/profile3.jpg": "/static/media/profile3.c93f9d64f08fce10570a.jpg",
+    "static/media/profile.jpg": "/static/media/profile.89252e41610c01232e77.jpg",
+    "static/media/logo.png": "/static/media/logo.85e869a755c605162bb9.png",
+    "index.html": "/index.html",
+    "main.a673ef77.css.map": "/static/css/main.a673ef77.css.map",
+    "main.341a1242.js.map": "/static/js/main.341a1242.js.map"
   },
   "entrypoints": [
     "static/css/main.a673ef77.css",
-    "static/js/main.9c74f228.js"
+    "static/js/main.341a1242.js"
   ]
 }
